@@ -113,6 +113,12 @@ setProjects = (projects) => {
 
         li.appendChild(projectDesc);
 
+        let projectTech = document.createElement('div');
+        projectTech.className = 'project-desc';
+        projectTech.innerHTML = project.tech?project.tech:'';
+
+        li.appendChild(projectTech);
+
         ul.appendChild(li);
     })
 }
