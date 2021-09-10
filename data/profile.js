@@ -8,7 +8,7 @@ const profileData = {
             "email": "prateekkmr41@gmail.com",
             "phone": "+918853849950",
             "address": "562, T.R Muniswamappa Building,1st Main 5th cross ,BENGALURU ,KARNATAKA-560066",
-            "portfolio": "https://userprateek.github.io/resume/"
+            "portfolio": "http://resume.prateekkumar.net/"
         }
     },
     "links": [
@@ -125,7 +125,7 @@ const profileData = {
             "title": "certifications",
             "body": [
                 {
-                    "desc": "a online learning course in <strong> Python (Basic) Certificate </strong> hosted by <b> Hackerrank </b>",
+                    "desc": "a online learning course in <strong> Javascript (Basic) Certificate </strong> hosted by <b> Hackerrank </b>",
                     "date": "10:Sept, 2020"
                 },
                 {
